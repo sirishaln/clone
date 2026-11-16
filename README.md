@@ -1,2 +1,2 @@
 # clone
-this file explains about cloning repository
+this file explains about cloning repository 
